@@ -89,13 +89,11 @@ While our approach demonstrates promising results, potential avenues for future 
 
 If you utilize this research or methodology, please reference our forthcoming publication.
 
-## License
-
-[Specify your licensing terms]
 
 **Disclaimer**: This research is conducted under strict ethical guidelines with explicit consent and anonymization protocols.
 
 
+**Helper Commmands**:
 torchrun --nproc_per_node 1 Llama2_post-rephraser.py \
     --ckpt_dir llama-2-7b-chat/ \
     --tokenizer_path tokenizer.model \
