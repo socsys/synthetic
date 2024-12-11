@@ -64,9 +64,8 @@ Performance variability was observed across different PII (Personally Identifiab
 - Substantial GPU resources recommended
 
 ## Installation
-
+Download the Anonymous repository and extract, then:
 ```bash
-git clone https://github.com/[your-repository]/synthetic-data-generation.git
 cd synthetic-data-generation
 pip install -r requirements.txt
 ```
